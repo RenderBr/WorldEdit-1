@@ -66,7 +66,7 @@ namespace WorldEdit
 		public static Dictionary<string, int> Slopes { get; private set; } = new();
 
 		public override string Author
-			=> "Armano den Boef (Rozen4334)";
+			=> "TBC Developers";
 
 		public override string Description
 			=> "Adds commands for mass editing of blocks. Documentation at: https://github.com/Rozen4334/WorldEdit/wiki";
