@@ -98,7 +98,7 @@ namespace WorldEdit
 			Configuration<WorldEditSettings>.Load("WorldEdit");
 
 			if (!Directory.Exists(Configuration<WorldEditSettings>.Settings.SchematicDirectory))
-				Directory.CreateDirectory(Configuration<WorldEditSettings>.Settings.SchematicDirectory);
+				Directory.CreateDirectory(TShock.SavePath);
 
 			GeneralHooks.ReloadEvent += (x) =>
 			{

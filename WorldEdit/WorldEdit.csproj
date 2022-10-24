@@ -15,16 +15,16 @@
       <HintPath>..\..\Auxiliary\Auxiliary\bin\Debug\net6.0\Auxiliary.dll</HintPath>
     </Reference>
     <Reference Include="ModFramework">
-      <HintPath>..\..\TShock-Beta-win-x64-Release\TShock-Beta-win-x64-Release\bin\ModFramework.dll</HintPath>
+      <HintPath>J:\Downloads\TShock-Beta-win-x64-Release-4\bin\ModFramework.dll</HintPath>
     </Reference>
     <Reference Include="OTAPI">
-      <HintPath>..\..\TShock-Beta-win-x64-Release\TShock-Beta-win-x64-Release\bin\OTAPI.dll</HintPath>
+      <HintPath>J:\Downloads\TShock-Beta-win-x64-Release-4\bin\OTAPI.dll</HintPath>
     </Reference>
     <Reference Include="TerrariaServer">
-      <HintPath>..\..\TShock-Beta-win-x64-Release\TShock-Beta-win-x64-Release\bin\TerrariaServer.dll</HintPath>
+      <HintPath>J:\Downloads\TShock-Beta-win-x64-Release-4\bin\TerrariaServer.dll</HintPath>
     </Reference>
     <Reference Include="TShockAPI">
-      <HintPath>..\..\TShock-Beta-win-x64-Release\TShock-Beta-win-x64-Release\ServerPlugins\TShockAPI.dll</HintPath>
+      <HintPath>J:\Downloads\TShock-Beta-win-x64-Release-4\ServerPlugins\TShockAPI.dll</HintPath>
     </Reference>
   </ItemGroup>
 
